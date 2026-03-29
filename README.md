@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ashwin-Gaikwad/Ashwin-Gaikwad/main/assets/boy.svg" width="150" />
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4500&pause=1500&color=7AA2F7&center=true&vCenter=true&width=600&lines=Siddh+Patel;Exploring+Machine+Learning;Curious+about+how+things+work" />
 
