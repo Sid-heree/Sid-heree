@@ -43,11 +43,25 @@ about_me:
     - Deep Learning & Neural Networks
 
   interests:
-  - Data analysis & extracting meaningful insights from data
-  - Building and understanding machine learning models
-  - Exploring real-world AI applications
-  - Developing backend systems and APIs
-  - Writing clean, efficient, and scalable code
+```yaml
+about_me:
+  name: Siddh Patel
+  role: Machine Learning Enthusiast | Data Science Learner | Developer
+
+  current_focus:
+    - Improving core Machine Learning algorithms
+    - Strengthening problem-solving and analytical skills
+
+  learning:
+    - Scalable ML model deployment (MLOps)
+    - Deep Learning & Neural Networks
+
+  interests:
+    - Data analysis & extracting meaningful insights from data
+    - Building and understanding machine learning models
+    - Exploring real-world AI applications
+    - Developing backend systems and APIs
+    - Writing clean, efficient, and scalable code
 
   collaboration:
     open_to: true
@@ -64,7 +78,6 @@ about_me:
   fun_fact: >
     I enjoy breaking down complex systems to understand how they work
     and turning that understanding into practical projects.
----
 
 ## 💻 Tech Stack
 
