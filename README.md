@@ -18,11 +18,14 @@
 </div>
 
 ## 🚀 About Me
-- 🔭 **Currently working on:** Improving my core Machine Learning algorithms.
-- 🌱 **Learning:** Scalable ML model deployment and deep learning.
-- 👯 **Collaborating on:** Any data-driven or Open Source Python projects.
-- ⚡ **Fun Fact:** I transitioned from building APIs to analyzing the data that flows through them!
 
+```yaml
+Name:        Siddh Patel
+Role:        Machine Learning Enthusiast | Backend Developer
+Focus:       Data-Driven Systems & Intelligent Applications
+Status:      Learning • Building • Exploring 🚀
+Location:    India
+Email:       siddhpatel754@gmail.com
 ---
 
 ## 💻 Tech Stack
