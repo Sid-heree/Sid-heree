@@ -30,13 +30,40 @@
 
 ---
 
-## 🚀 About Me
+about_me:
+  name: Siddh Patel
+  role: Machine Learning Enthusiast | Data Science Learner | Developer
 
-- 🔭 **Currently working on:** Improving core Machine Learning algorithms  
-- 🌱 **Learning:** Scalable ML model deployment & deep learning  
-- 👯 **Looking to collaborate on:** Data-driven or Open Source Python projects  
-- ⚡ **Fun Fact:** Transitioned from building APIs → analyzing the data inside them  
+  current_focus:
+    - Improving core Machine Learning algorithms
+    - Strengthening problem-solving and analytical skills
 
+  learning:
+    - Scalable ML model deployment (MLOps)
+    - Deep Learning & Neural Networks
+
+  interests:
+  - Data analysis & extracting meaningful insights from data
+  - Building and understanding machine learning models
+  - Exploring real-world AI applications
+  - Developing backend systems and APIs
+  - Writing clean, efficient, and scalable code
+
+  collaboration:
+    open_to: true
+    domains:
+      - Data Science
+      - Machine Learning
+      - Open Source Python Projects
+
+  journey:
+    started_with: Web Development
+    transition: From building APIs → understanding and analyzing data
+    goal: Build intelligent systems that solve real-world problems
+
+  fun_fact: >
+    I enjoy breaking down complex systems to understand how they work
+    and turning that understanding into practical projects.
 ---
 
 ## 💻 Tech Stack
