@@ -4,6 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3200&pause=800&color=39FF14&center=true&vCenter=true&width=650&lines=Siddh+Patel;Machine+Learning+Explorer;Turning+Data+Into+Insights;Always+Curious+About+How+Things+Work" />
 </div>
 
+
 ### Machine Learning Enthusiast | Data Science Learner | Backend Developer
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/siddh._.9) 
