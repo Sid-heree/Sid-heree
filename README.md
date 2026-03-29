@@ -39,21 +39,3 @@
 ### Web Development & Databases
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
----
-
-## GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sid-heree&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Siddh's Stats" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sid-heree&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
-<br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=Sid-heree&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-<div align="center">
-  <p><b>Profile Views</b></p>
-  <img src="https://visitcount.itsvg.in/api?id=Sid-heree&icon=0&color=0" alt="Views" />
-</div>
