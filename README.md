@@ -1,91 +1,21 @@
-About Me:
-🔭 I’m currently working on
-👯 I’m looking to collaborate on
-🤝 I’m looking for help with
-🌱 I’m currently learningSiddh Patel
-Machine Learning Enthusiast • Data Science Learner • Developer
-
-India
-📧 siddhpatel754@gmail.com
-
-🌐 Portfolio: https://personal-portfolio-g2qk.vercel.app/
-
-Who I Am
-
-I’m a curious developer who enjoys discovering how things work and turning ideas into real projects.
-
-My journey began with web development, where I built backend applications, designed REST APIs, and worked with databases. While developing applications, I became fascinated by how data can reveal patterns and help make smarter decisions.
-
-That curiosity gradually led me into the world of Machine Learning and Data Science — exploring how algorithms learn from data and how intelligent systems are built.
-
-Today, I combine my development experience with data science tools to create projects that are not only functional but also data-driven and insightful.
-
-I enjoy solving real problems, experimenting with new technologies, and continuously learning how intelligent systems are designed and improved.
-
-What I’m Currently Focused On
-
-• Learning core Machine Learning algorithms
-• Improving data analysis and visualization skills
-• Building ML projects using Python libraries
-• Understanding how ML models move from notebooks to real applications
-• Strengthening backend development and APIs
-
-Technical Toolbox
-Programming
-
-Python • Java • C • JavaScript
-
-Data Science & Machine Learning
-
-NumPy
-Pandas
-Matplotlib
-Scikit-learn
-Seaborn
-
-Web Development
-
-HTML5 • CSS3 • JavaScript
-React
-Node.js
-REST API Development
-
-Databases
-
-MySQL
-SQL Queries
-Database Design
-CRUD Operations
-
-Tools & Environment
-
-Git • GitHub
-VS Code
-Jupyter Notebook
-PyCharm
-Vercel
-Basic Linux
-
-What I’m Looking For
-
-I’m currently looking for opportunities where I can learn, build, and contribute, such as:
-
-• Machine Learning Internships
-• Data Science Internships
-💬 Ask me about
-⚡ Fun fact
-
-🌐 Socials:
-Instagram LinkedIn email
-
-💻 Tech Stack:
-Java C Python NumPy PyTorch Scipy Vercel React Java JavaScript MySQL CSS3
-
-📊 GitHub Stats:
+# 💫 About Me:
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learningSiddh Patel<br>Machine Learning Enthusiast • Data Science Learner • Developer<br><br>India<br>📧 siddhpatel754@gmail.com<br><br>🌐 Portfolio: https://personal-portfolio-g2qk.vercel.app/<br><br>Who I Am<br><br>I’m a curious developer who enjoys discovering how things work and turning ideas into real projects.<br><br>My journey began with web development, where I built backend applications, designed REST APIs, and worked with databases. While developing applications, I became fascinated by how data can reveal patterns and help make smarter decisions.<br><br>That curiosity gradually led me into the world of Machine Learning and Data Science — exploring how algorithms learn from data and how intelligent systems are built.<br><br>Today, I combine my development experience with data science tools to create projects that are not only functional but also data-driven and insightful.<br><br>I enjoy solving real problems, experimenting with new technologies, and continuously learning how intelligent systems are designed and improved.<br><br>What I’m Currently Focused On<br><br>• Learning core Machine Learning algorithms<br>• Improving data analysis and visualization skills<br>• Building ML projects using Python libraries<br>• Understanding how ML models move from notebooks to real applications<br>• Strengthening backend development and APIs<br><br>Technical Toolbox<br>Programming<br><br>Python • Java • C • JavaScript<br><br>Data Science & Machine Learning<br><br>NumPy<br>Pandas<br>Matplotlib<br>Scikit-learn<br>Seaborn<br><br>Web Development<br><br>HTML5 • CSS3 • JavaScript<br>React<br>Node.js<br>REST API Development<br><br>Databases<br><br>MySQL<br>SQL Queries<br>Database Design<br>CRUD Operations<br><br>Tools & Environment<br><br>Git • GitHub<br>VS Code<br>Jupyter Notebook<br>PyCharm<br>Vercel<br>Basic Linux<br><br>What I’m Looking For<br><br>I’m currently looking for opportunities where I can learn, build, and contribute, such as:<br><br>• Machine Learning Internships<br>• Data Science Internships<br>💬 Ask me about<br>⚡ Fun fact
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/siddh._.9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddh-patel-3429092b3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siddhpatel754@gmail.com) 
 
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sid-heree&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Sid-heree&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sid-heree&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Sid-heree&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=Sid-heree&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🔝 Top Contributed Repo
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
