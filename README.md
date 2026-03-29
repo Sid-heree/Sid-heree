@@ -1,7 +1,7 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Siddh+Patel;Curious+Mind+Who+Loves+How+Things+Work;Machine+Learning+%7C+Data+Science+Explorer;Building+Projects+%26+Learning+Everyday" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3500&pause=900&color=7FFF00&center=true&vCenter=true&width=650&lines=Hello+World!+I'm+Siddh+Patel;Machine+Learning+Enthusiast;Exploring+Data+Science+%26+AI;I+Love+Understanding+How+Things+Work" />
 </div>
 </div>
 ### Machine Learning Enthusiast | Data Science Learner | Backend Developer
