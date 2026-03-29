@@ -30,19 +30,7 @@
 
 ---
 
-about_me:
-  name: Siddh Patel
-  role: Machine Learning Enthusiast | Data Science Learner | Developer
 
-  current_focus:
-    - Improving core Machine Learning algorithms
-    - Strengthening problem-solving and analytical skills
-
-  learning:
-    - Scalable ML model deployment (MLOps)
-    - Deep Learning & Neural Networks
-
-  interests:
 ```yaml
 about_me:
   name: Siddh Patel
