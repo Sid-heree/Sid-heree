@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4500&pause=1500&color=7AA2F7&center=true&vCenter=true&width=600&lines=Siddh+Patel;Exploring+Machine+Learning;Curious+about+how+things+work" />
 
-### Machine Learning Enthusiast | Data Science Learner | Backend Developer
+### Machine Learning Enthusiast | Data Science Learner | Developer
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/siddh._.9) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddh-patel-3429092b3) 
