@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Ashwin-Gaikwad/Ashwin-Gaikwad/main/assets/boy.svg" width="150" />
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4500&pause=1500&color=7AA2F7&center=true&vCenter=true&width=600&lines=Siddh+Patel;Exploring+Machine+Learning;Curious+about+how+things+work" />
 
 ### Machine Learning Enthusiast | Data Science Learner | Developer
@@ -21,21 +23,21 @@
 | :--- | :--- |
 | **Currently working on** | Improving my core Machine Learning algorithms. |
 | **Learning** | ML & Deep Learning. |
-| **Collaborating on** | Any ML or Data Science related projects. |
+| **Open to** | Internships in Machine Learning or Data Science roles. |
 | **Fun Fact** | I transitioned from building APIs to analyzing the data that flows through them! |
 
 ---
 
 ## Tech Stack
 
+### Core Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
 ### Data Science & Machine Learning
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 ### Web Development & Databases
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-### Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
 ---
 
@@ -52,5 +54,6 @@
 ---
 
 <div align="center">
+  <p><b>Profile Views</b></p>
   <img src="https://visitcount.itsvg.in/api?id=Sid-heree&icon=0&color=0" alt="Views" />
 </div>
