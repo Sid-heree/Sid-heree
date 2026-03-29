@@ -17,12 +17,16 @@
 
 </div>
 
-## 🚀 About Me
-- 🔭 **Currently working on:** Improving my core Machine Learning algorithms.
-- 🌱 **Learning:** Scalable ML model deployment and deep learning.
-- 👯 **Collaborating on:** Any data-driven or Open Source Python projects.
-- ⚡ **Fun Fact:** I transitioned from building APIs to analyzing the data that flows through them!
+## About Me
 
+| Focus | Status |
+| :--- | :--- |
+| **Currently working on** | Improving my core Machine Learning algorithms. |
+| **Learning** | Scalable ML model deployment and deep learning. |
+| **Collaborating on** | Any data-driven or Open Source Python projects. |
+| **Fun Fact** | I transitioned from building APIs to analyzing the data that flows through them! |
+
+---
 ---
 
 ## 💻 Tech Stack
