@@ -36,16 +36,73 @@
 about_me:
   name: Siddh Patel
   role: Machine Learning Enthusiast | Data Science Learner | Developer
+
   current_focus:
     - Improving core Machine Learning algorithms
     - Strengthening problem-solving and analytical skills
+
   learning:
     - Scalable ML model deployment (MLOps)
     - Deep Learning & Neural Networks
+
   interests:
     - Data analysis & extracting insights
     - Building machine learning models
-    - Backend systems & APIs
+    - Exploring real-world AI applications
+    - Developing backend systems and APIs
+    - Writing clean, efficient, and scalable code
+
   collaboration:
     open_to: true
-    domains: [Data Science, Machine Learning, Open Source]
+    domains:
+      - Data Science
+      - Machine Learning
+      - Open Source Python Projects
+
+  journey:
+    started_with: Web Development
+    transition: From building APIs → understanding and analyzing data
+    goal: Build intelligent systems that solve real-world problems
+
+  fun_fact: >
+    I enjoy breaking down complex systems to understand how they work
+    and turning that understanding into practical projects.
+💻 Tech Stack
+🧠 Data Science & Machine Learning
+<p>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+</p>
+
+🌐 Web Development & Databases
+<p>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+</p>
+
+🛠️ Tools
+<p>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"/>
+</p>
+
+📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Sid-heree&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sid-heree&theme=tokyonight&layout=compact&hide_border=true" />
+
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Sid-heree&theme=tokyonight&hide_border=true" />
+</p>
+
+<div align="center">
+<img src="https://visitcount.itsvg.in/api?id=Sid-heree&icon=0&color=0" />
+</div>
