@@ -1,9 +1,9 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3500&pause=900&color=7FFF00&center=true&vCenter=true&width=650&lines=Hello+World!+I'm+Siddh+Patel;Machine+Learning+Enthusiast;Exploring+Data+Science+%26+AI;I+Love+Understanding+How+Things+Work" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=91FF66&center=true&vCenter=true&width=500&height=80&lines=%E2%9C%A8+Hi%2C+Siddh+Patel+Here+✨;Machine+Learning+Explorer+💻" alt="Typing SVG" />
 </div>
-</div>
+
 ### Machine Learning Enthusiast | Data Science Learner | Backend Developer
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/siddh._.9) 
