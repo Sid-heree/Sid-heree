@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4500&pause=1500&color=7AA2F7&center=true&vCenter=true&width=600&lines=Siddh+Patel;Exploring+Machine+Learning;Curious+about+how+things+work" />
 
-### Machine Learning  | AI | Developer
+### AI/ML | Data Science | Computer Vision
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge\&logo=Instagram\&logoColor=white)](https://instagram.com/siddh._.9)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/siddh-patel-3429092b3)
@@ -23,9 +23,9 @@
 | Focus | Details |
 | :--- | :--- |
 | **Currently working on** | Improving my core Machine Learning algorithms. |
-| **Learning** | ML & Deep Learning. |
-| **Open to** | Internships in Machine Learning or Data Science roles. |
-| **Fun Fact** | I transitioned from building APIs to analyzing the data that flows through them! |
+| **Learning** | Deep Learning, NLP & Generative AI. |
+| **Open to** | AI/ML and Data Science Internship Opportunities. |
+
 
 ---
 
